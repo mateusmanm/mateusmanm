@@ -1,9 +1,10 @@
 #### Hello world!&nbsp;&nbsp;&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 ## Olá, eu sou o Mateus Martins 👋
 
-<div align="center">
+<div>
   <a href="https://github.com/mateusmanm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusmanm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmanm&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
