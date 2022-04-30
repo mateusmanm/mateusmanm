@@ -23,6 +23,8 @@
 <a href="https://www.linkedin.com/in/omateusmartins/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mateus Martins | Linkedin" height="24px" style="max-width: 100%;">
 </a>
+
+![Snake animation](https://github.com/mateusmanm/mateusmanm/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 **mateusmanm/mateusmanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
