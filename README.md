@@ -1,4 +1,4 @@
-#### Hello world!&nbsp;&nbsp;&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+#### Hello world!&nbsp;&nbsp;&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24">
 ## Olá, eu sou o Mateus Martins 👋
 
 <div>
